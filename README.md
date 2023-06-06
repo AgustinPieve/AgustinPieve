@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 Soy Agustín Pieve, un Desarrollador Full Stack comprometido y en continuo crecimiento. 
 Siempre he destacado por mis habilidades blandas como la comunicación tanto afectiva 
 como efectiva, la proactividad, el trabajo en equipo y la escucha empática. 
@@ -17,4 +17,4 @@ el anhelo de un constante aprendizaje y mejora en dichas áreas, siendo de gran
 aporte para cualquier organización en el rubro Tech.
 
 Puedes contactarme a través de mi correo electrónico pieveagustin@gmail.com o a través de mi perfil de LinkedIn en  https://www.linkedin.com/in/agustinpieve/
--->
+
