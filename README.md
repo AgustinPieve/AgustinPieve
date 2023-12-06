@@ -1,20 +1,11 @@
 ### Hi there 👋
 
 
-Soy Agustín Pieve, un Desarrollador Full Stack comprometido y en continuo crecimiento. 
-Siempre he destacado por mis habilidades blandas como la comunicación tanto afectiva 
-como efectiva, la proactividad, el trabajo en equipo y la escucha empática. 
+I'm Agustín Pieve, a committed and continuously growing Full Stack Developer. I have always stood out for my soft skills, such as effective and empathetic communication, proactiveness, teamwork, and empathetic listening.
 
-Me forme en la carrera de Full Stack Developer, donde desarrollé proyectos en Javascript, Reac-Redux,
-TailwindCss, Next js, Node js, Express js, MongoDB, Sequelize, PostgreSQL. Me gustaría destacar a Finder Service,
-una App Web que desarrollé junto a un equipo de seis personas utilizando la metodología SCRUM 
-junto con herramientas como Figma, Gitflow y Trello.
+I pursued a career as a Full Stack Developer, where I worked on projects involving Javascript, React-Redux, TailwindCss, Next.js, Node.js, Express.js, MongoDB, Sequelize, and PostgreSQL. I would like to highlight Finder Service, a web app that I developed with a team of six people using the SCRUM methodology and tools like Figma, Gitflow, and Trello.
 
-Mi formación en el mundo IT me llevó a un gran crecimiento como desarrollador,
-pero también en valores como la disciplina, el liderazgo, la toma de 
-decisiones y una actitud siempre predispuesta a nuevos desafíos impulsada por 
-el anhelo de un constante aprendizaje y mejora en dichas áreas, siendo de gran
-aporte para cualquier organización en el rubro Tech.
+My IT education has led to significant growth as a developer, as well as in values such as discipline, leadership, decision-making, and a constant willingness to take on new challenges driven by a desire for continuous learning and improvement in these areas. I believe I can be a valuable addition to any organization in the Tech industry.
 
-Puedes contactarme a través de mi correo electrónico pieveagustin@gmail.com o a través de mi perfil de LinkedIn en  https://www.linkedin.com/in/agustinpieve/
+You can contact me via email at pieveagustin@gmail.com or through my LinkedIn profile at https://www.linkedin.com/in/agustinpieve/.
 
